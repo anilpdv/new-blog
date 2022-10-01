@@ -2,7 +2,7 @@ pre[class*='language-'] {
   color: theme('colors.zinc.100');
 }
 
-h2,h1,h4,h5,h6 {
+/* h2,h1,h4,h5,h6 {
   font-family: 'Nunito', sans-serif,'Poppins','Lato','Courier New', Courier, monospace;
 }
 
@@ -10,7 +10,7 @@ p {
  font-family:  'Montserrat' !important;
 
  font-weight: 400;
-}
+} */
 
 .token.tag,
 .token.class-name,
